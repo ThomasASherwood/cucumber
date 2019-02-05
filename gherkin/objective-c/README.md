@@ -2,3 +2,10 @@
 
 Gherkin parser/compiler for Objective-C.
 Please see [Gherkin](https://github.com/cucumber/gherkin) for details.
+
+## Installation via Cocoapods
+Add the following statement to your Podfile:
+
+```ruby
+pod 'Gherkin'
+```
