@@ -309,6 +309,7 @@
 		5BAA188F1BCF923700D59664 /* NSObject+Dictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Dictionary.h"; sourceTree = "<group>"; };
 		5BAA18901BCF923700D59664 /* NSObject+Dictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Dictionary.m"; sourceTree = "<group>"; };
 		5BAA189B1BCFF81C00D59664 /* GherkinTestsOSX.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GherkinTestsOSX.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CA6A46A52209D74200B7D834 /* Gherkin.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; fileEncoding = 4; path = Gherkin.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DC83A4711CB7EC8400B0F0C7 /* GHGherkinDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHGherkinDocument.h; sourceTree = "<group>"; };
 		DC83A4731CB7EE0A00B0F0C7 /* GHGherkinDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHGherkinDocument.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -373,6 +374,7 @@
 		5B18C8361BCD0BD400D16073 = {
 			isa = PBXGroup;
 			children = (
+				CA6A46A52209D74200B7D834 /* Gherkin.podspec */,
 				5B18C8411BCD0BD400D16073 /* Gherkin */,
 				5B18C8AB1BCDBF6300D16073 /* GherkinTests */,
 				5BAA17E41BCEF4EA00D59664 /* AstGenerator */,
